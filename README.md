@@ -291,6 +291,6 @@ This project is licensed under the **MIT License**. See `LICENSE` for details.
 ---
 
 **Made with ❤️ for terminal enthusiasts everywhere** 
-**By Corrupted-Devil**
+**By MasterTronix**
 
-Happy chatting! 🚀
+Happy chatting! **🚀😏**
