@@ -33,7 +33,7 @@ A powerful, feature-rich terminal-based AI chat client powered by **OpenRouter A
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/Corrupted-Devil/Termux-AI
+git clone https://github.com/Master-Tronix/Termux-AI
 cd Termux-AI
 ```
 
@@ -127,7 +127,7 @@ For the complete list, visit: https://openrouter.ai/models
 ### Termux (Android)
 ```bash
 pkg install bash curl jq git
-git clone https://github.com/Corrupted-Devil/Termux-AI
+git clone https://github.com/Master-Tronix/Termux-AI
 cd Termux-AI
 chmod +x Termux-AI.sh
 ./Termux-AI.sh
@@ -136,7 +136,7 @@ chmod +x Termux-AI.sh
 ### Ubuntu/Debian
 ```bash
 sudo apt-get install curl jq git
-git clone https://github.com/Corrupted-Devil/Termux-AI
+git clone https://github.com/Master-Tronix/Termux-AI
 cd Termux-AI
 chmod +x Termux-AI.sh
 ./Termux-AI.sh
@@ -145,7 +145,7 @@ chmod +x Termux-AI.sh
 ### macOS
 ```bash
 brew install curl jq git
-git clone https://github.com/Corrupted-Devil/Termux-AI
+git clone https://github.com/Master-Tronix/Termux-AI
 cd Termux-AI
 chmod +x Termux-AI.sh
 ./Termux-AI.sh
@@ -154,7 +154,7 @@ chmod +x Termux-AI.sh
 ### Fedora/RHEL
 ```bash
 sudo dnf install curl jq git
-git clone https://github.com/Corrupted-Devil/Termux-AI
+git clone https://github.com/Master-Tronix/Termux-AI
 cd Termux-AI
 chmod +x Termux-AI.sh
 ./Termux-AI.sh
